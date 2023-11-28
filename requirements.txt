@@ -2,4 +2,3 @@ pyqt5
 mss
 pillow
 imgcompare
-tinker
